@@ -1,0 +1,25 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jdhansen41/timestamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jdhansen41/timestamp/issues"
+  },
+  "homepage": "https://github.com/Jdhansen41/timestamp#readme",
+  "description": ""
+}
